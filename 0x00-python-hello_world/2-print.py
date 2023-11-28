@@ -1,2 +1,2 @@
-#!/bin/bash
-ptint(""Programming is like building a multilingual puzzle"/n)
+#!/usr/bin/python3
+ptint('"Programming is like building a multilingual puzzle'/n)
